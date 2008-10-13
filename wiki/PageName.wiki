@@ -1,0 +1,25 @@
+#labels Featured
+= Introduction =
+
+The *thereisnorush* project is basically a simulation of the traffic in a city: cars, trucks, traffic lights, roundabouts…
+
+It relies on very simple rules and assumptions, and aims at optimizing traffic light management.
+
+This is part of the _Algorithmique & Programmation_ course at École Centrale Paris.
+
+== Team & informations ==
+
+  * Chahine
+  * Kamaradclimber
+  * Sharayanan
+
+<wiki:gadget url="http://www.ohloh.net/projects/thereisnorush/widgets/project_basic_stats.xml" height="220px"/>
+
+== Explanations ==
+
+You may want to know how and why we did things the way we did: here are the answers.
+
+  * [The_tools] we use: Python, pygame…
+  * [The_city] we play with: the roads, the roundabouts…
+  * [The_cars] that crowd it
+  * …
