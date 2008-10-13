@@ -13,7 +13,7 @@ This is part of the _Algorithmique & Programmation_ course at École Centrale Pa
   * Kamaradclimber
   * Sharayanan
 
-<wiki:gadget url="http://www.ohloh.net/projects/thereisnorush/widgets/project_basic_stats.xml" height="220px"/>
+<wiki:gadget url="http://www.ohloh.net/projects/thereisnorush/widgets/project_basic_stats.xml" height="220px" border="1"/>
 
 == Explanations ==
 
